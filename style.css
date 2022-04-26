@@ -1,0 +1,34 @@
+body {
+  background: #2d3436;
+  color: red;
+  font-family: "Righteous", cursive;
+}
+
+.error {
+  color: red;
+}
+
+.btn {
+  color: #2b00ff;
+  font-family: "Righteous", cursive;
+  border: 2px solid;
+  border-color: #ff7675;
+}
+
+.inp {
+  color: #2b00ff;
+  font-family: "Righteous", cursive;
+  border: 2px solid;
+  border-color: #ff7675;
+}
+
+.selector {
+  color: #2b00ff;
+  font-family: "Righteous", cursive;
+  border: 2px solid;
+  border-color: #ff7675;
+}
+
+.result {
+  font-family: fantasy;
+}
